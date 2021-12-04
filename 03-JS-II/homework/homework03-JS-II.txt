@@ -1,0 +1,13 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+for
+Es una función la cual se desarrolla en bucle, está dividida en 3 partes y se usa para poder repetir una función hasta que cumpla una determinada condición.
+
+&&
+Es un operador el cual significa "y", se usa en la lógica para concatenar 2 o más condiciones. Al cumplirse todas las condiciones se ejecuta el código.
+
+||
+Es un operador el cual significa "o", se usa en la lógica para comparar 2 o más condiciones. Al cumplirse una de todas las condiciones se ejecuta el código.
+
+!
+Es un operador el cual significa "no", se usa en la lógica para invertir la condición de verdadero a falso y viceverza o para ejecutar lo contrario a la condición.
